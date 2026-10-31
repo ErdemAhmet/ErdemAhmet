@@ -52,10 +52,11 @@ Piri Reis Üniversitesi Yönetim Bilişim Sistemleri mezunuyum. Veri analizi, ve
 
 ---
 
-### 🗃️ SQL ile ilgili notlar
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemAhmet&layout=compact&hide_border=true" alt="En çok kullanılan diller" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErdemAhmet&show_icons=true&hide_border=true" alt="GitHub istatistikleri" />
+</p>
 
-Bu yaz yaptığım PostgreSQL stajında şunlarla uğraştım:
-
-- Yaklaşık 43 milyon satırlık bir tabloda 3 farklı SQL yaklaşımını kıyaslayıp süreyi **yaklaşık %27** azalttım
-- `EXPLAIN ANALYZE` ile execution plan okuyup indeksle bir test sorgusunu **95 ms → 24 ms**'ye indirdim
-- `pg_dump` / `pg_basebackup` yedeklerini otomatikleştirdim, WAL ile geri yükleme ve PITR denedim
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ErdemAhmet&hide_border=true" alt="Katkı serisi" />
+</p>
